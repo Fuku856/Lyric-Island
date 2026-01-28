@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lyricisland.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.lyricisland.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hachi\\.gradle\\daemon\\8.7\\com.lyricisland.app-main-35:\\layout\\activity_main.xml"
+    }
+]

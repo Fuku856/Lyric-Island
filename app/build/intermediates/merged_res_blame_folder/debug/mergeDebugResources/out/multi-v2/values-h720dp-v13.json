@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lyricisland.app-mergeDebugResources-33:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hachi\\.gradle\\caches\\9.0-milestone-1\\transforms\\f252f0716b9deb0a7c3eb35866bdca0a\\transformed\\appcompat-1.7.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

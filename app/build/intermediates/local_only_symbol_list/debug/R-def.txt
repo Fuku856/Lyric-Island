@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id mode_switch
+id permission_button
+id status_text
+id test_island_button
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.LyricIsland
+xml backup_rules
+xml data_extraction_rules
